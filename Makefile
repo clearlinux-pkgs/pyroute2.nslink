@@ -1,5 +1,5 @@
 PKG_NAME := pyroute2.nslink
-URL = https://files.pythonhosted.org/packages/c6/60/839cb265db30958f7ea393b23c1f2f1a59a5bfe298571f3b1c40730a6f3c/pyroute2.nslink-0.6.2.tar.gz
+URL = https://files.pythonhosted.org/packages/31/c9/94a3473f9f7fb123a0ad3a9199d0431302e1c826d362625c7683edfc092d/pyroute2.nslink-0.6.3.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
