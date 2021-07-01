@@ -4,7 +4,7 @@
 #
 Name     : pyroute2.nslink
 Version  : 0.6.4
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/95/d1/338103f7446004b1bb8c5ef773cf448c08a84e355b023d8355feccffccf2/pyroute2.nslink-0.6.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/95/d1/338103f7446004b1bb8c5ef773cf448c08a84e355b023d8355feccffccf2/pyroute2.nslink-0.6.4.tar.gz
 Summary  : Python Netlink library: NetNS, NSPopen and remote modules
